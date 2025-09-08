@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/your-repo-name.git"
+    "url": "https://github.com/kevinrf100/darker_neon"
   },
   "engines": {
     "vscode": "^1.103.0"
@@ -17,6 +17,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "https://github.com/kevinrf100/darker_neon/blob/master/assets/dog.png",
   "contributes": {
     "themes": [
       {
