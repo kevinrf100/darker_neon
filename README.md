@@ -19,8 +19,9 @@ I made this theme with a lot of love ❤️.
 
 ## Screenshots
 
-![Editor Preview](assets/vscode_preview.png)
-![Theme Explorer](assets/vscode_theme_explorer.png)
+![Editor Preview](https://github.com/kevinrf100/darker_neon/blob/master/assets/vscode_preview.png)
+
+![Theme Explorer](https://github.com/kevinrf100/darker_neon/blob/master/assets/vscode_theme_explorer.png)
 
 ---
 
@@ -61,7 +62,7 @@ See [CHANGELOG.md](CHANGELOG.md) for release notes and updates.
 
 ## Contributing
 
-Contributions, suggestions, and issues are welcome! Please open an issue or pull request on [GitHub](https://github.com/yourusername/your-repo-name).
+Contributions, suggestions, and issues are welcome! Please open an issue or pull request on [darker_neon](https://github.com/kevinrf100/darker_neon).
 
 ---
 
