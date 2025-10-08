@@ -19,9 +19,9 @@ I made this theme with a lot of love ❤️.
 
 ## Screenshots
 
-![Editor Preview](https://github.com/kevinrf100/darker_neon/blob/master/assets/vscode_preview.png)
+![Editor Preview](https://github.com/kevinrf100/darker_neon/blob/master/assets/editor-preview.png)
 
-![Theme Explorer](https://github.com/kevinrf100/darker_neon/blob/master/assets/vscode_theme_explorer.png)
+![Theme Explorer](https://github.com/kevinrf100/darker_neon/blob/master/assets/panel-preview.png)
 
 ---
 
